@@ -1,0 +1,10 @@
+{
+  "name": "@liquidmd/jsx-runtime",
+  "version": "1.0.0",
+  "description": "JSX Runtime for Liquid.",
+  "main": "dom.js",
+  "repository": "https://github.com/furrybrackets/LiquidJSX.git",
+  "author": "Peter Johnson <integral.sketch@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
